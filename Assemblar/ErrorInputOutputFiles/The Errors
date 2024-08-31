@@ -1,0 +1,13 @@
+/*
+
+	The Errors in "zerrorfile":
+		
+		the opcoce mov is getting just one argument.
+		.data with something that is not a number.
+
+
+	The Errors in "zerrorfile2":
+
+		Macro with illegel name
+		
+*/
