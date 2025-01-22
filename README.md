@@ -14,5 +14,6 @@ The assembler works in three main stages:
 3.Second Pass - In the second pass, the assembler generates the final machine code, replacing operations with their binary equivalents.
 
 Input - files with the assembly lines with .as ending
+
 Output - .ob file with the binary equivalents, .ent/.ext if there are, and .am file that is the file after the macro execute.
 
